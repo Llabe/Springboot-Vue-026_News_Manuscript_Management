@@ -1,4 +1,4 @@
-# springboot109新闻稿件管理系统 / springboot109-News_Manuscript_Management
+# 新闻稿件管理系统 / News_Manuscript_Management
 
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7+-brightgreen)
@@ -9,7 +9,8 @@
 ![Shiro](https://img.shields.io/badge/Shiro-1.3.2-green)
 
 
-> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+
 注：由于前端项目太大，仅上传了后端代码，未包含前端代码...
 
 ## 项目简介  
@@ -73,7 +74,7 @@ src/
    url: jdbc:mysql://127.0.0.1:3306/springboot9n107?useUnicode=true
    username: root
    password: 123456  # 改为实际数据库密码
-```
+
 
 # 项目实际截图：
 ## 登录：
